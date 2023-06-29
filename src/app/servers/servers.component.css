@@ -1,0 +1,10 @@
+.cross{
+  display: inline;
+  float: right;
+  cursor: pointer;
+  position: relative;
+  bottom: 36px;
+  right: 4px;
+  border: 1px solid;
+  padding: 5px 10px;
+}
